@@ -469,3 +469,18 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+
+
+
+
+
+.phone-link {  
+    color: #FFFFFF80; /* Default color */  
+    text-decoration: none; /* Remove underline */  
+}  
+
+.phone-link:hover {  
+    color: blue; /* Change to blue on hover */  
+    text-decoration: underline; /* Optional: add underline on hover */  
+}  
